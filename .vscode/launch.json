@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Testarray",
+            "request": "launch",
+            "mainClass": "Testarray",
+            "projectName": "workspace_41b14c37"
+        },
+        {
+            "type": "java",
+            "name": "Launch Counter",
+            "request": "launch",
+            "mainClass": "Counter",
+            "projectName": "workspace_41b14c37"
+        },
+        {
+            "type": "java",
+            "name": "Launch Any",
+            "request": "launch",
+            "mainClass": "Any",
+            "projectName": "workspace_41b14c37"
+        },
+        {
+            "type": "java",
+            "name": "Launch test2",
+            "request": "launch",
+            "mainClass": "test2",
+            "projectName": "workspace_41b14c37"
+        },
+        {
+            "type": "java",
+            "name": "Launch whileLoopDemo",
+            "request": "launch",
+            "mainClass": "whileLoopDemo",
+            "projectName": "workspace_41b14c37"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Server",
+            "request": "launch",
+            "mainClass": "Server",
+            "projectName": "workspace_41b14c37"
+        },
+        {
+            "type": "java",
+            "name": "Launch client",
+            "request": "launch",
+            "mainClass": "client",
+            "projectName": "workspace_41b14c37"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "workspace_41b14c37"
+        }
+    ]
+}
